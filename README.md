@@ -4,16 +4,7 @@
 
 <img src="assets/h-about.svg" width="100%" alt="Player stats">
 
-```
-NAME ........... Ruslan Pryimak
-CLASS .......... Senior QA Engineer
-XP ............. 9+ years
-BASE ........... San Francisco Bay Area
-WORLDS ......... iOS · Android · Web · IoT · CarPlay · Android Auto
-PLAYSTYLE ...... co-op 🤝 team first, process always
-SPECIAL MOVE ... turns "almost ready" into a release everyone trusts
-TRAINING ....... MSc, Electrical & Computer Engineering
-```
+<img src="assets/player-card.svg" width="100%" alt="Ruslan Pryimak. Class: Senior QA Engineer. XP: 9+ years. Base: San Francisco Bay Area. Worlds: iOS, Android, Web, IoT, CarPlay, Android Auto. Playstyle: co-op, team first. Special move: releases you can trust. Education: MSc, Electrical &amp; Computer Engineering.">
 
 For me, quality is a team sport. It isn't a gate at the end. It's a shared habit: a clear test strategy, a predictable release rhythm, and docs good enough that a new teammate gets going on day one.
 
@@ -27,6 +18,7 @@ These days I help ship the **Honda & Acura** mobile app at Drivemode, working ha
 
 | Slot | Items |
 |---|---|
+| 🌍 **Worlds** | iOS · Android · Web · IoT · Apple CarPlay · Android Auto |
 | ⚔️ **Main weapon** | Test strategy & planning · risk-based testing · release readiness · root cause analysis |
 | 🤝 **Party buffs** | Mentoring · onboarding guides · cross-team alignment · clear bug reports · Agile/Scrum |
 | 🛡️ **Armor** | Functional, regression, exploratory, usability, accessibility, localization & API testing |
